@@ -1,0 +1,5 @@
+
+try : try doing this set of stuff
+except Error : if there is an Error
+len (lst)= check how much there is in the list
+? : takes the value and prints it
